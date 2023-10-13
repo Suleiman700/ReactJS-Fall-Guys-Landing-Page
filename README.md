@@ -1,6 +1,6 @@
 # React Fall Guys Landing Page
 
-Simple landing page of the game Fall Guys using React and Styled Components.
+A beautiful landing page for Fall Guys game Guys using React.js.
 
 <div align="center">
     <img src="./src/assets/images/img.png"  align="center" />
